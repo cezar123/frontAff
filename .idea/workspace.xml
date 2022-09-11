@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29a549ad-1d81-4ae1-aa4e-b2ed12054962" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EJRaEiMla1igZMlqmncvuugOH1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pages/todos" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages/todos" />
+      <recent name="$PROJECT_DIR$/layouts" />
+      <recent name="$PROJECT_DIR$/pages/projects" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29a549ad-1d81-4ae1-aa4e-b2ed12054962" name="Default Changelist" comment="" />
+      <created>1662311761742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662311761742</updated>
+      <workItem from="1662311764912" duration="3098000" />
+      <workItem from="1662320250497" duration="79119000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="190" key="SettingsEditor" timestamp="1662364167336">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="469" y="190" key="SettingsEditor/349.1103.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1662364167336" />
+    <state x="100" y="123" width="1720" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1662901951793">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="100" y="123" width="1720" height="857" key="com.intellij.history.integration.ui.views.FileHistoryDialog/349.1103.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1662901951793" />
+    <state x="653" y="384" key="com.intellij.ide.util.TipDialog" timestamp="1662320422969">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="653" y="384" key="com.intellij.ide.util.TipDialog/349.1103.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1662320422969" />
+    <state x="301" y="118" width="1325" height="858" key="find.popup" timestamp="1662593171370">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="301" y="118" width="1325" height="858" key="find.popup/349.1103.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1662593171370" />
+    <state x="625" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1662581711730">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="625" y="258" width="670" height="676" key="search.everywhere.popup/349.1103.1280.777/0.23.1920.1057@0.23.1920.1057" timestamp="1662581711730" />
+  </component>
+</project>
